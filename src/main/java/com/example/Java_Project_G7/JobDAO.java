@@ -1,7 +1,6 @@
 package com.example.Java_Project_G7;
 
+public interface JobDAO {
 
-
-public class Test_Web_Service {
 
 }
