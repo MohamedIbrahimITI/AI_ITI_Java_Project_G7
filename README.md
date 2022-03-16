@@ -16,7 +16,7 @@
 - open localhost:8080/
 
 ### Team members:
-- Alaa 
+- Alaa Elawady
 - Fatima Samir
 - Fatima El Saadany
 - Mohamed Ibrahim Mohamed
