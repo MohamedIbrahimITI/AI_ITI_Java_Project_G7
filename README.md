@@ -9,7 +9,6 @@
 - Wuzzuf jobs in Egypt data set at Kaggle https://www.kaggle.com/omarhanyy/wuzzuf-jobs
 
 ### API Documentation:
-- Dataset is read initially with spark, and it is with this library that the dataset is cleaned (null, duplications) 
 - Navigating the main page is simple and intuitive.
 - To use this application, load the application and run it on application server prefared "APACHE TOMCAT"
 - use intellij to load the project and run it.
